@@ -11,7 +11,7 @@ jobs:
       - name: multiline script
         run: |
           node -v
-          npm -
+          npm -v
       - name: pyhton Command
         run: | 
           import platform 
